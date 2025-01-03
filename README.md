@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jadeleong9618
-- 👀 I’m interested in working on more projects in java that are fun or helpful!
-- 🌱 I’m currently a beginner CS student eager to learn more!
+- 👋 Hi, I’m @Jadeleong
+- 👀 I’m interested in working on more projects to make the word a better place.
+- 🌱 I’m currently a sophomore at NYU studying CS eager to learn more!
 - 📫 How to reach me: email me! @jyl9618@nyu.edu
 - 😄 Pronouns: she/her
 
